@@ -1,0 +1,15 @@
+brave-bin
+grimblast-git
+hyprdots-ctl
+hyprpicker-git
+oh-my-zsh-git
+pokemon-colorscripts-git
+python-pyamdgpuinfo
+rofi-lbonn-wayland-git
+sddm-git
+swaylock-effects-git
+swww
+tty-clock
+visual-studio-code-bin
+wlogout
+yay
